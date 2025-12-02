@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to BostMD</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #F0F7FF; font-family: 'Helvetica Neue', Arial, sans-serif;">
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color: #F0F7FF;">
+        <tr>
+            <td align="center" style="padding: 40px 20px;">
+                
+                <!-- Main Container -->
+                <table role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" style="background-color: #ffffff; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08);">
+                    
+                    <!-- Header -->
+                    <tr>
+                        <td style="background: linear-gradient(135deg, #0D3B66 0%, #1a4a7a 100%); padding: 40px 40px 50px; text-align: center;">
+                            <img src="https://res.cloudinary.com/dxwyssqnv/image/upload/v1764439354/dr-bost_dtiitc.png" alt="BostMD" width="80" height="80" style="border-radius: 16px; margin-bottom: 20px;">
+                            <h1 style="color: #ffffff; font-size: 32px; font-weight: 700; margin: 0 0 10px; letter-spacing: -0.5px;">Welcome to BostMD!</h1>
+                            <p style="color: #FF9575; font-size: 16px; font-weight: 600; margin: 0;">Your Trusted Pediatric Health Companion</p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Welcome Message -->
+                    <tr>
+                        <td style="padding: 50px 40px 30px;">
+                            <p style="color: #0D3B66; font-size: 18px; line-height: 1.7; margin: 0 0 20px;">
+                                Hi there! 👋
+                            </p>
+                            <p style="color: #4a5568; font-size: 16px; line-height: 1.8; margin: 0 0 20px;">
+                                Thanks for joining the BostMD family! This app was created to give parents like you access to trusted, evidence-based pediatric guidance.
+                            </p>
+                            <p style="color: #4a5568; font-size: 16px; line-height: 1.8; margin: 0;">
+                                No more late-night Google searches or worrying about misinformation. BostMD puts reliable answers at your fingertips—in both <strong style="color: #0D3B66;">English and Spanish</strong>.
+                            </p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Features Section -->
+                    <tr>
+                        <td style="padding: 20px 40px 40px;">
+                            <h2 style="color: #0D3B66; font-size: 22px; font-weight: 700; margin: 0 0 25px; text-align: center;">What You'll Get with BostMD</h2>
+                            
+                            <!-- Feature 1 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #FFF5F2; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">🤖</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Ask Dr. Bost AI</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Get instant answers to your pediatric questions, 24/7. Powered by evidence-based medical guidelines.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 2 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #EEF4FF; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">💊</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Medication Safety Checker</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">101+ medications with dosing info, safety guidelines, and breastfeeding compatibility from LactMed.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 3 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #F0FDF4; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">📊</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">WHO Growth Charts</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Track your child's height, weight, and head circumference with official WHO percentile charts.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 4 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #FEF3C7; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">🧠</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Myth Busters</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Combat misinformation with evidence-based facts about vaccines, feeding, sleep, and more.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 5 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #F3E8FF; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">📈</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Developmental Milestone Tracker</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Follow your child's developmental journey with age-appropriate milestones from birth to 5 years.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 6 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #ECFDF5; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">🍼</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Newborn Essentials & Breastfeeding Guide</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Everything you need for your newborn—feeding tips, sleep guidance, and comprehensive breastfeeding support.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 7 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #FEE2E2; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">🎯</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Parent Knowledge Quizzes</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Test and expand your parenting knowledge with fun, educational quizzes on child health topics.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 8 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #E0F2FE; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">🌍</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Fully Bilingual</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Every feature available in English and Spanish. Switch languages anytime with one tap.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Download CTA -->
+                    <tr>
+                        <td style="padding: 0 40px 50px;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background: linear-gradient(135deg, #FF9575 0%, #FFB399 100%); border-radius: 16px;">
+                                <tr>
+                                    <td style="padding: 35px; text-align: center;">
+                                        <h3 style="color: #ffffff; font-size: 22px; font-weight: 700; margin: 0 0 10px;">Ready to Get Started?</h3>
+                                        <p style="color: #ffffff; font-size: 15px; margin: 0 0 25px; opacity: 0.95;">Download BostMD today and take control of your child's health.</p>
+                                        
+                                        <!-- App Store Buttons -->
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                                            <tr>
+                                                <td style="padding-right: 10px;">
+                                                    <a href="#" style="text-decoration: none;">
+                                                        <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on App Store" height="44" style="border-radius: 8px;">
+                                                    </a>
+                                                </td>
+                                                <td style="padding-left: 10px;">
+                                                    <a href="#" style="text-decoration: none;">
+                                                        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="64" style="margin: -10px 0;">
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Trust Bar -->
+                    <tr>
+                        <td style="padding: 0 40px 40px; text-align: center;">
+                            <p style="color: #9ca3af; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin: 0 0 15px;">Trusted Medical Sources</p>
+                            <p style="color: #6b7280; font-size: 13px; margin: 0;">AAP • CDC • WHO • NIH • LactMed • PubMed</p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Footer -->
+                    <tr>
+                        <td style="background-color: #0D3B66; padding: 35px 40px; text-align: center;">
+                            <p style="color: #ffffff; font-size: 14px; margin: 0 0 15px;">
+                                Questions? Reply to this email or reach us at<br>
+                                <a href="/cdn-cgi/l/email-protection#21424e4f5540425561434e52554c450f424e4c" style="color: #FF9575; text-decoration: none; font-weight: 600;"><span class="__cf_email__" data-cfemail="75161a1b0114160135171a060118115b161a18">[email&#160;protected]</span></a>
+                            </p>
+                            <p style="color: #9ca3af; font-size: 12px; margin: 0 0 15px;">
+                                BostMD provides educational information only.<br>Always consult your pediatrician for medical decisions.
+                            </p>
+                            <p style="color: #6b7280; font-size: 11px; margin: 0;">
+                                © 2026 BostMD. All rights reserved.<br>
+                                7425 Whitegate Ave, Riverside, CA 92506
+                            </p>
+                            <p style="margin: 15px 0 0;">
+                                <a href="*|UNSUB|*" style="color: #9ca3af; font-size: 11px; text-decoration: underline;">Unsubscribe</a>
+                            </p>
+                        </td>
