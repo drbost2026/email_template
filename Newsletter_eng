@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BostMD Newsletter</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #F0F7FF; font-family: 'Helvetica Neue', Arial, sans-serif;">
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color: #F0F7FF;">
+        <tr>
+            <td align="center" style="padding: 40px 20px;">
+                
+                <!-- Main Container -->
+                <table role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" style="background-color: #ffffff; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08);">
+                    
+                    <!-- Header -->
+                    <tr>
+                        <td style="background-color: #0D3B66; padding: 25px 40px;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                <tr>
+                                    <td>
+                                        <img src="https://res.cloudinary.com/dxwyssqnv/image/upload/v1764439354/dr-bost_dtiitc.png" alt="BostMD" width="45" height="45" style="border-radius: 10px; vertical-align: middle;">
+                                        <span style="color: #ffffff; font-size: 22px; font-weight: 700; margin-left: 12px; vertical-align: middle;">BostMD</span>
+                                    </td>
+                                    <td align="right">
+                                        <span style="color: #FF9575; font-size: 13px; font-weight: 600;">Weekly Health Tips</span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Hero Section -->
+                    <tr>
+                        <td style="padding: 50px 40px 40px; text-align: center;">
+                            <p style="color: #FF9575; font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; margin: 0 0 15px;">This Week's Topic</p>
+                            <!-- EDIT THIS: Change the newsletter topic -->
+                            <h1 style="color: #0D3B66; font-size: 28px; font-weight: 700; line-height: 1.3; margin: 0 0 15px;">
+                                [Newsletter Title Goes Here]
+                            </h1>
+                            <p style="color: #6b7280; font-size: 15px; margin: 0;">
+                                <!-- EDIT THIS: Brief subtitle or teaser -->
+                                A brief description of what this week's newsletter covers.
+                            </p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Featured Image (Optional) -->
+                    <tr>
+                        <td style="padding: 0 40px 30px;">
+                            <!-- EDIT THIS: Replace with your image URL or remove this section -->
+                            <div style="background: linear-gradient(135deg, #E8F4F8 0%, #d4e9f7 100%); border-radius: 12px; height: 200px; display: flex; align-items: center; justify-content: center;">
+                                <p style="color: #0D3B66; font-size: 14px; text-align: center; padding: 20px;">[Optional: Add featured image here]</p>
+                            </div>
+                        </td>
+                    </tr>
+                    
+                    <!-- Main Content -->
+                    <tr>
+                        <td style="padding: 0 40px 40px;">
+                            <!-- EDIT THIS: Your newsletter content -->
+                            <p style="color: #4a5568; font-size: 16px; line-height: 1.8; margin: 0 0 20px;">
+                                Hi there! 👋
+                            </p>
+                            <p style="color: #4a5568; font-size: 16px; line-height: 1.8; margin: 0 0 20px;">
+                                [Your main newsletter content goes here. Write about the topic, share tips, insights, or updates. Keep paragraphs short and easy to read.]
+                            </p>
+                            <p style="color: #4a5568; font-size: 16px; line-height: 1.8; margin: 0 0 20px;">
+                                [Add more paragraphs as needed. You can include bullet points, tips, or any relevant information for parents.]
+                            </p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Quick Tips Section -->
+                    <tr>
+                        <td style="padding: 0 40px 40px;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color: #F8FAFC; border-radius: 12px; border-left: 4px solid #FF9575;">
+                                <tr>
+                                    <td style="padding: 25px 30px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 15px;">💡 Quick Tips</h3>
+                                        <!-- EDIT THIS: Add your tips -->
+                                        <ul style="color: #4a5568; font-size: 14px; line-height: 1.8; margin: 0; padding-left: 20px;">
+                                            <li style="margin-bottom: 8px;">[Tip 1 goes here]</li>
+                                            <li style="margin-bottom: 8px;">[Tip 2 goes here]</li>
+                                            <li style="margin-bottom: 0;">[Tip 3 goes here]</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Did You Know Box -->
+                    <tr>
+                        <td style="padding: 0 40px 40px;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background: linear-gradient(135deg, #0D3B66 0%, #1a4a7a 100%); border-radius: 12px;">
+                                <tr>
+                                    <td style="padding: 30px;">
+                                        <p style="color: #FF9575; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: 0 0 10px;">Did You Know?</p>
+                                        <!-- EDIT THIS: Add an interesting fact -->
+                                        <p style="color: #ffffff; font-size: 16px; line-height: 1.7; margin: 0;">
+                                            [Add an interesting pediatric health fact here. Make it surprising or educational!]
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- CTA Section -->
+                    <tr>
+                        <td style="padding: 0 40px 50px; text-align: center;">
+                            <h3 style="color: #0D3B66; font-size: 20px; font-weight: 700; margin: 0 0 10px;">Want to Learn More?</h3>
+                            <p style="color: #6b7280; font-size: 14px; margin: 0 0 25px;">Explore more topics in the BostMD app</p>
+                            
+                            <!-- App Store Buttons -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                                <tr>
+                                    <td style="padding-right: 10px;">
+                                        <a href="#" style="text-decoration: none;">
+                                            <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on App Store" height="40" style="border-radius: 8px;">
+                                        </a>
+                                    </td>
+                                    <td style="padding-left: 10px;">
+                                        <a href="#" style="text-decoration: none;">
+                                            <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="58" style="margin: -9px 0;">
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Divider -->
+                    <tr>
+                        <td style="padding: 0 40px;">
+                            <div style="height: 1px; background-color: #e5e7eb;"></div>
+                        </td>
+                    </tr>
+                    
+                    <!-- From BostMD -->
+                    <tr>
+                        <td style="padding: 40px;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                <tr>
+                                    <td width="60" valign="top">
+                                        <img src="https://res.cloudinary.com/dxwyssqnv/image/upload/v1764439354/dr-bost_dtiitc.png" alt="Dr. Bost" width="50" height="50" style="border-radius: 50%;">
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <p style="color: #4a5568; font-size: 14px; line-height: 1.7; margin: 0 0 10px;">
+                                            Thanks for reading! If you found this helpful, share it with another parent who might benefit.
+                                        </p>
+                                        <p style="color: #0D3B66; font-size: 14px; font-weight: 600; margin: 0;">
+                                            — BostMD<br>
+                                            <span style="color: #6b7280; font-weight: 400; font-size: 13px;">Your Trusted Pediatric Resource</span>
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Footer -->
+                    <tr>
+                        <td style="background-color: #0D3B66; padding: 35px 40px; text-align: center;">
+                            <p style="color: #ffffff; font-size: 14px; margin: 0 0 15px;">
+                                Questions or feedback? Reply to this email or reach us at<br>
+                                                                <a href="mailto:contact@bostmd.com" style="color: #FF9575; text-decoration: none; font-weight: 600;">contact@bostmd.com</a>
+                            </p>
+                            <p style="color: #9ca3af; font-size: 12px; margin: 0 0 15px;">
+                                BostMD provides educational information only.<br>Always consult your pediatrician for medical decisions.
+                            </p>
+                            <p style="color: #6b7280; font-size: 11px; margin: 0;">
+                                © 2026 BostMD. All rights reserved.
+                            </p>
+                            <p style="margin: 15px 0 0;">
+                                <a href="*|UNSUB|*" style="color: #9ca3af; font-size: 11px; text-decoration: underline;">Unsubscribe</a>
+                                &nbsp;•&nbsp;
+                                <a href="https://www.bostmd.app" style="color: #9ca3af; font-size: 11px; text-decoration: underline;">Visit Website</a>
+                            </p>
+                        </td></tr></table></td></tr></table></body></html>
