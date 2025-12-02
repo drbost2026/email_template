@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenido a BostMD</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #F0F7FF; font-family: 'Helvetica Neue', Arial, sans-serif;">
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color: #F0F7FF;">
+        <tr>
+            <td align="center" style="padding: 40px 20px;">
+                
+                <!-- Main Container -->
+                <table role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" style="background-color: #ffffff; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08);">
+                    
+                    <!-- Header -->
+                    <tr>
+                        <td style="background: linear-gradient(135deg, #0D3B66 0%, #1a4a7a 100%); padding: 40px 40px 50px; text-align: center;">
+                            <img src="https://res.cloudinary.com/dxwyssqnv/image/upload/v1764439354/dr-bost_dtiitc.png" alt="BostMD" width="80" height="80" style="border-radius: 16px; margin-bottom: 20px;">
+                            <h1 style="color: #ffffff; font-size: 32px; font-weight: 700; margin: 0 0 10px; letter-spacing: -0.5px;">¡Bienvenido a BostMD!</h1>
+                            <p style="color: #FF9575; font-size: 16px; font-weight: 600; margin: 0;">Su Compañero de Confianza en Salud Pediátrica</p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Welcome Message -->
+                    <tr>
+                        <td style="padding: 50px 40px 30px;">
+                            <p style="color: #0D3B66; font-size: 18px; line-height: 1.7; margin: 0 0 20px;">
+                                ¡Hola! 👋
+                            </p>
+                            <p style="color: #4a5568; font-size: 16px; line-height: 1.8; margin: 0 0 20px;">
+                                ¡Gracias por unirse a la familia BostMD! Esta aplicación fue creada para dar a padres como usted acceso a orientación pediátrica confiable y basada en evidencia.
+                            </p>
+                            <p style="color: #4a5568; font-size: 16px; line-height: 1.8; margin: 0;">
+                                No más búsquedas en Google a medianoche ni preocupaciones por la desinformación. BostMD pone respuestas confiables al alcance de su mano—en <strong style="color: #0D3B66;">inglés y español</strong>.
+                            </p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Features Section -->
+                    <tr>
+                        <td style="padding: 20px 40px 40px;">
+                            <h2 style="color: #0D3B66; font-size: 22px; font-weight: 700; margin: 0 0 25px; text-align: center;">Lo Que Obtendrá con BostMD</h2>
+                            
+                            <!-- Feature 1 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #FFF5F2; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">🤖</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Pregúntale al Dr. Bost IA</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Obtenga respuestas instantáneas a sus preguntas pediátricas, 24/7. Basado en guías médicas con evidencia.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 2 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #EEF4FF; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">💊</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Verificador de Seguridad de Medicamentos</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Más de 101 medicamentos con información de dosificación, guías de seguridad y compatibilidad con lactancia de LactMed.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 3 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #F0FDF4; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">📊</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Gráficas de Crecimiento de la OMS</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Rastree la altura, peso y circunferencia de la cabeza de su hijo con gráficas oficiales de percentiles de la OMS.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 4 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #FEF3C7; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">🧠</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Cazadores de Mitos</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Combata la desinformación con hechos basados en evidencia sobre vacunas, alimentación, sueño y más.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 5 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #F3E8FF; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">📈</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Seguimiento de Hitos del Desarrollo</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Siga el desarrollo de su hijo con hitos apropiados para su edad desde el nacimiento hasta los 5 años.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 6 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #ECFDF5; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">🍼</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Esenciales del Recién Nacido y Guía de Lactancia</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Todo lo que necesita para su recién nacido—consejos de alimentación, guía de sueño y apoyo integral para la lactancia.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 7 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #FEE2E2; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">🎯</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Cuestionarios para Padres</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Ponga a prueba y amplíe sus conocimientos de crianza con cuestionarios divertidos y educativos sobre salud infantil.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Feature 8 -->
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                <tr>
+                                    <td width="50" valign="top">
+                                        <div style="width: 44px; height: 44px; background-color: #E0F2FE; border-radius: 12px; text-align: center; line-height: 44px; font-size: 20px;">🌍</div>
+                                    </td>
+                                    <td style="padding-left: 15px;">
+                                        <h3 style="color: #0D3B66; font-size: 16px; font-weight: 700; margin: 0 0 5px;">Completamente Bilingüe</h3>
+                                        <p style="color: #6b7280; font-size: 14px; line-height: 1.6; margin: 0;">Todas las funciones disponibles en inglés y español. Cambie de idioma en cualquier momento con un solo toque.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Download CTA -->
+                    <tr>
+                        <td style="padding: 0 40px 50px;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background: linear-gradient(135deg, #FF9575 0%, #FFB399 100%); border-radius: 16px;">
+                                <tr>
+                                    <td style="padding: 35px; text-align: center;">
+                                        <h3 style="color: #ffffff; font-size: 22px; font-weight: 700; margin: 0 0 10px;">¿Listo para Comenzar?</h3>
+                                        <p style="color: #ffffff; font-size: 15px; margin: 0 0 25px; opacity: 0.95;">Descargue BostMD hoy y tome control de la salud de su hijo.</p>
+                                        
+                                        <!-- App Store Buttons -->
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                                            <tr>
+                                                <td style="padding-right: 10px;">
+                                                    <a href="#" style="text-decoration: none;">
+                                                        <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/es-mx?size=250x83" alt="Descargar en App Store" height="44" style="border-radius: 8px;">
+                                                    </a>
+                                                </td>
+                                                <td style="padding-left: 10px;">
+                                                    <a href="#" style="text-decoration: none;">
+                                                        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png" alt="Disponible en Google Play" height="64" style="margin: -10px 0;">
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Trust Bar -->
+                    <tr>
+                        <td style="padding: 0 40px 40px; text-align: center;">
+                            <p style="color: #9ca3af; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin: 0 0 15px;">Fuentes Médicas Confiables</p>
+                            <p style="color: #6b7280; font-size: 13px; margin: 0;">AAP • CDC • OMS • NIH • LactMed • PubMed</p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Footer -->
+                    <tr>
+                        <td style="background-color: #0D3B66; padding: 35px 40px; text-align: center;">
+                            <p style="color: #ffffff; font-size: 14px; margin: 0 0 15px;">
+                                ¿Preguntas? Responda a este correo o contáctenos en<br>
+                                <a href="mailto:contact@bostmd.com" style="color: #FF9575; text-decoration: none; font-weight: 600;">contact@bostmd.com</a>
+                            </p>
+                            <p style="color: #9ca3af; font-size: 12px; margin: 0 0 15px;">
+                                BostMD proporciona solo información educativa.<br>Siempre consulte a su pediatra para decisiones médicas.
+                            </p>
+                            <p style="color: #6b7280; font-size: 11px; margin: 0;">
+                                © 2026 BostMD. Todos los derechos reservados.<br>
+                                7425 Whitegate Ave, Riverside, CA 92506
+                            </p>
+                            <p style="margin: 15px 0 0;">
+                                <a href="*|UNSUB|*" style="color: #9ca3af; font-size: 11px; text-decoration: underline;">Cancelar suscripción</a>
+                            </p>
+                        </td>
+                    </tr>
+                    
+                </table>
+                
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
